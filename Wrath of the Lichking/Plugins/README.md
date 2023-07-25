@@ -1,20 +1,15 @@
-Overview
-This plugin has been developed to provide extended session functionality for an application. It allows users to bypass session limitations, effectively granting them unlimited sessions.
+# Overview
+ This plugin has been developed to provide extended session functionality for an application. It allows users to bypass session limitations, effectively granting them unlimited sessions.
 
-Purpose
-The main purpose of this plugin is to enhance user experience by removing session restrictions, enabling users to make the most out of the application's features.
+# Purpose
+ The main purpose of this plugin is to enhance user experience by removing session restrictions, enabling users to make the most out of the application's features.
 
-Installation
-Just copy the inside the plugins folder and execute gmr ingame, next time you open launcher gmr will be unlimited sessions for free
+# Note of Caution
+ Please exercise caution while using this plugin. The bypassing of session limitations may have consequences and potentially violate the terms of service of the application it is used with.
 
-Note of Caution
-Please exercise caution while using this plugin. The bypassing of session limitations may have consequences and potentially violate the terms of service of the application it is used with.
+# Disclaimer
+ The creator of this repository is not responsible for any issues or consequences that may arise from the use of this plugin. Users assume full responsibility for their actions while using the plugin.
 
-Disclaimer
-The creator of this repository is not responsible for any issues or consequences that may arise from the use of this plugin. Users assume full responsibility for their actions while using the plugin.
 
-Support and Community
-If you encounter any issues or have questions regarding the Session Bypass Plugin, please feel free to seek support from the community or the developer. Participating in relevant online forums or discussion groups can be beneficial for sharing experiences and knowledge.
-
-Conclusion
+# Conclusion
 We hope that this plugin enhances your experience and adds value to your usage of the application. As a user, please use the plugin responsibly and respect the terms of service of the application it is used with. Thank you for your interest in this project!
